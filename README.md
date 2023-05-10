@@ -1,5 +1,5 @@
 # javelin-data-science
-Exploratory data analysis of the javelin throw.
+# Exploratory data analysis of the javelin throw.
 
 ![alt text](https://github.com/ethanwright96/javelin-data-science/assets/124592942/de5de5e4-a1eb-4aaa-a890-2a5c5ff120be)
 
