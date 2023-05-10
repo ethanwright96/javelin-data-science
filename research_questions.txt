@@ -1,0 +1,9 @@
+1. What is the age distribution of professional javelin throwers? (both male and female)
+
+2. What are the summary statistics of these distributions?
+
+3. What sorts of classes might javelin throwers (and other event athletes) be placed/grouped in to better characterize age, performance, and longevity?
+
+i. Excellence
+ii. Consistency
+iii. Longevity
