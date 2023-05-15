@@ -9,17 +9,31 @@
 
 3. What sorts of classes might javelin throwers (and other event athletes) be placed/grouped in to better characterize age, performance, and longevity?
 
+4. What is the spatial (international) distribution of Elite Javelin Throwers?
+
+Variables:
+
+1. Date of Birth (for Age)
+
+2. World Athletics Ranking
+
+Question: How are World Athletics Rankings Calculated?
+
+3. Personal Best (meters)
+
+4. Season's Best (meters)
+
 Candidate Classiers:
 
-1. Excellence
+1. Excellence (PB x n International Competitions...)
 
-2. Improvement
+2. Improvement (Slope of Seasons Bests over Time)
 
-3. Consistency
+3. Consistency (Intra-competition, Inter-competition over Time)
 
-4. Longevity
+4. Longevity (n years in x class)
 
-5. Resilience
+5. Resilience (% PB post injury)
 
 Potential Data Sources:
 
