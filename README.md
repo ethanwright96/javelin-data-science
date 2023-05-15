@@ -7,18 +7,19 @@ Elite Men's Javelin Throwers
 
 ![alt text](https://github.com/ethanwright96/javelin-data-science/blob/main/World%20Athletics/Histogram_Men_Javelin.png)
 
-![alt text](https://github.com/ethanwright96/javelin-data-science/blob/main/World%20Athletics/significant_pairwise_ttest_results_men_javelin.png)
+<p align="center">
+  <img src="https://github.com/ethanwright96/javelin-data-science/blob/main/World%20Athletics/significant_pairwise_ttest_results_men_javelin.png" alt="Pairwise T-Test Results" style="border: 1px solid black;">
+</p>
 
-1st Class Male Javelin Throwers: those ranked in the top 100 by World Athletics, have an average age that is statistically significantly different than that of all other classes of javelin throwers in the top 500. Average age of Male 1st Class Throwers is greater in all cases; ranging from 2.1 to 3.4 years older.
+First-Class Male Javelin Throwers, specifically those ranked in the top 100 by World Athletics, exhibit a statistically significant difference in average age compared to all other classes of javelin throwers within the top 500 rankings. On average, Male First-Class Throwers are older in all cases, with an age difference ranging from 2.1 to 3.4 years.
 
 Elite Women's Javelin Throw
 
 ![alt text](https://github.com/ethanwright96/javelin-data-science/blob/main/World%20Athletics/Histogram_Women_Javelin.png)
-
-![alt text](https://github.com/ethanwright96/javelin-data-science/blob/main/World%20Athletics/significant_pairwise_ttest_results_women_javelin.png)
-
-Similarly, 1st Class Female Javelin Throwers: those ranked in the top 100 by World Athletics, have an average age that is statistically significantly different than that of all other classes of javelin throwers in the top 500. Average age of Female 1st Class Throwers is greater in all cases; ranging from 3.9 to 5.4 years older: a difference approximately 2 years more extreme than that observed between classes of Male throwers.
-
+<p align="center">
+  <img src="https://github.com/ethanwright96/javelin-data-science/blob/main/World%20Athletics/significant_pairwise_ttest_results_women_javelin.png" alt="Pairwise T-Test Results" style="border: 1px solid black;">
+</p>
+Likewise, First-Class Female Javelin Throwers, specifically those ranked in the top 100 by World Athletics, demonstrate a statistically significant difference in average age compared to all other classes of javelin throwers within the top 500 rankings. On average, Female First-Class Throwers are older in all cases, with an age difference ranging from 3.9 to 5.4 years. This difference is approximately 2 years more pronounced than the observed age difference between classes of Male throwers.
 
 
 2. What are the summary statistics of these distributions?
