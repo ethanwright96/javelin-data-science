@@ -1,9 +1,26 @@
 # javelin-data-science
 # Exploratory Data Analysis of the Javelin Throw
 
-1. What is the age distribution of professional javelin throwers? (both male and female)
+## Introduction
+I embarked on my javelin throwing journey as a Freshman in High School, 12 years ago. What began as a commitment to learning the sport transformed into a relentless pursuit of technical excellence. Along the way, I achieved notable milestones, including clinching the Rhode Island High School State Championship title in 2014, setting several meet records, and garnering interest from UPenn, Cornell, and Brown University for recruitment. Ultimately, I chose Brown University, graduating in 2019.
 
-Elite Men's Javelin Throwers
+Unfortunately, my college athletic career was cut short by a disc injury sustained while front-squatting. This setback compelled me to redirect my focus. I transitioned to a student-assistant coaching role for the javelin throw, channeling my energy into nurturing the skills of others. Additionally, I immersed myself in my other technical passion, the cello.
+
+Over time, I embarked on a journey of recovery and self-strengthening. In 2015, I underwent stem cell therapy, followed by three years of refraining from high-impact activities. I dedicated myself to applied strength and conditioning, fortifying my body and mind. Today, I stand ready to make my comeback. Come Spring 2024, I will compete in the U.S. Men's Javelin circuit, resuming my athletic journey with renewed vigor. 
+
+With a clear vision, mission, purpose, and platform, I dive into the captivating world of the javelin throw. As a micro-project, my aim is to investigate age-related disparities across genders and performance levels in track and field events, focusing on the Javelin Throw as a case study and experimental ground.
+
+## Part I: Age 
+
+### 1. "How old is an average Javelin thrower?"
+
+To gauge the average age of javelin throwers, various data sources can be utilized, ranging from High School Datasets like Milesplit to the Diamond League. For this analysis, I have chosen to utilize World Athletics' Rankings. World Athletics, formerly known as the International Association of Athletics Federations (IAAF), is the international governing body for track and field. They organize and oversee major athletics events worldwide, including the Olympic Games and World Championships (source: https://www.worldathletics.org/).
+
+The World Athletics track and field rankings are determined using the World Athletics Ranking System, which considers an athlete's performance in specific events and assigns points based on the quality of their performance and the level of competition. By analyzing the current World Athletics Rankings, specifically focusing on the top 500-ranked javelin throwers globally, we can gain valuable insights and ask meaningful questions about the relationship between age, sport, and performance excellence.
+
+The following analyses presented below utilize this dataset as a starting point to explore the dynamics between age and performance in javelin throwing.   
+
+### Elite Men's Javelin Throwers
 
 ![alt text](https://github.com/ethanwright96/javelin-data-science/blob/main/World%20Athletics/Histogram_Men_Javelin.png)
 
@@ -13,7 +30,7 @@ Elite Men's Javelin Throwers
 
 First-Class Male Javelin Throwers, specifically those ranked in the top 100 by World Athletics, exhibit a statistically significant difference in average age compared to all other classes of javelin throwers within the top 500 rankings. On average, Male First-Class Throwers are older in all cases, with an age difference ranging from 2.1 to 3.4 years.
 
-Elite Women's Javelin Throw
+### Elite Women's Javelin Throw
 
 ![alt text](https://github.com/ethanwright96/javelin-data-science/blob/main/World%20Athletics/Histogram_Women_Javelin.png)
 <p align="center">
@@ -21,12 +38,11 @@ Elite Women's Javelin Throw
 </p>
 Likewise, First-Class Female Javelin Throwers, specifically those ranked in the top 100 by World Athletics, demonstrate a statistically significant difference in average age compared to all other classes of javelin throwers within the top 500 rankings. On average, Female First-Class Throwers are older in all cases, with an age difference ranging from 3.9 to 5.4 years. This difference is approximately 2 years more pronounced than the observed age difference between classes of Male throwers.
 
+## Part II: Progression
 
-2. What are the summary statistics of these distributions?
+What sorts of classes might javelin throwers (and other event athletes) be placed/grouped in to better characterize age, performance, and longevity?
 
-3. What sorts of classes might javelin throwers (and other event athletes) be placed/grouped in to better characterize age, performance, and longevity?
-
-4. What is the spatial (international) distribution of Elite Javelin Throwers?
+What is the spatial (international) distribution of Elite Javelin Throwers?
 
 Variables:
 
