@@ -8,9 +8,13 @@ Unfortunately, my college athletic career was cut short by a disc injury sustain
 
 Over time, I embarked on a journey of recovery and self-strengthening. In 2015, I underwent stem cell therapy, followed by three years of refraining from high-impact activities. I dedicated myself to applied strength and conditioning, fortifying my body and mind. Today, I stand ready to make my comeback. Come Spring 2024, I will compete in the U.S. Men's Javelin circuit, resuming my athletic journey with renewed vigor. 
 
-With a clear vision, mission, purpose, and platform, I dive into the captivating world of the javelin throw. As a micro-project, my aim is to investigate age-related disparities across genders and performance levels in track and field events, focusing on the Javelin Throw as a case study and experimental ground.
+With a clear vision, mission, purpose, and platform, I dive into the captivating world of the javelin throw. As a micro-project, my aim is to investigate the spatial distribution, age-related disparities across genders and performance levels in track and field events, focusing on the Javelin Throw as a case study and experimental ground.
 
-## Part I: Age 
+## Part I: Location
+
+Display Choropleths here.
+
+## Part II: Age 
 
 ### 1. "How old is an average Javelin thrower?"
 
