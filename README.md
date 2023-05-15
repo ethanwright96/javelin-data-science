@@ -1,9 +1,11 @@
 # javelin-data-science
-# Exploratory data analysis of the javelin throw.
-
-![alt text](https://github.com/ethanwright96/javelin-data-science/assets/124592942/de5de5e4-a1eb-4aaa-a890-2a5c5ff120be)
+# Exploratory Data Analysis of the Javelin Throw
 
 1. What is the age distribution of professional javelin throwers? (both male and female)
+
+![alt text](https://github.com/ethanwright96/javelin-data-science/blob/main/World%20Athletics/Histogram_Men_Javelin.png)
+
+![alt text](https://github.com/ethanwright96/javelin-data-science/blob/main/World%20Athletics/Histogram_Women_Javelin.png)
 
 2. What are the summary statistics of these distributions?
 
