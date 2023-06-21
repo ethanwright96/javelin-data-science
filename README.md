@@ -3,11 +3,9 @@
 
 ## Introduction
 
-## Part I: Location
+The purpose of this mini project was to use pandas to read HTML data from WorldAthletics.com to glean insights as to the age distribution among world-class javelin throwers.
 
-Display Choropleths here.
-
-## Part II: Age 
+## Part I: Age 
 
 ### 1. "How old is an average Javelin thrower?"
 
